@@ -15,3 +15,4 @@
     -> 伪造用户身份操作
     
 3. SQL注入
+![](https://segmentfault.com/img/remote/1460000012693782?w=803&h=428)
