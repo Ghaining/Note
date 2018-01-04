@@ -1,4 +1,5 @@
-# Note
+# Note - 2018-01-04
+***
 * 在Web应用中，客户端输入不可信是一个基本原则
 * 常见的几种Web前端安全问题
 1. XSS（跨站脚本攻击）（cross-site scripting）
