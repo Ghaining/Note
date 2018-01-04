@@ -1,2 +1,2 @@
 # Note
-daily essay
+在Web应用中，客户端输入不可信是一个基本原则
